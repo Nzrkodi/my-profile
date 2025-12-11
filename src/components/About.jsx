@@ -10,7 +10,7 @@ const About = () => {
           />
         </div>
         <div className="about-text">
-          <h3>Hello! I'm Nazar 👋</h3>
+          <h3>Hello! I'm NazarKodi 👋</h3>
           <p>
             I'm a Software Engineer based in Yogyakarta, Indonesia with a Bachelor's Degree 
             in Informatics from STMIK Adhiguna (GPA: 3.6). I have extensive experience in 
