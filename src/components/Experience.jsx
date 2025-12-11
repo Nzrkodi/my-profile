@@ -22,7 +22,7 @@ const Experience = () => {
     },
     {
       role: 'Backend Engineer',
-      company: 'Kiriminaja',
+      company: 'Universitas Tadulako',
       period: 'Apr 2021 - Feb 2023',
       highlights: [
         'Developed SIPORAT & SIKETA systems using jQuery, AJAX, Laravel, MySQL',

@@ -10,13 +10,13 @@ const Projects = () => {
       emoji: '📦',
       title: 'Kiriminaja Plus Fulfillment',
       desc: 'Led implementation of fulfillment solutions and complex problem-solving tasks, ensuring seamless operational workflows and enhanced customer satisfaction.',
-      tags: ['JavaScript', 'REST API', 'Xendit Payment Gateway', 'Laravel']
+      tags: ['JavaScript', 'REST API', 'Payment Gateway (Xendit)', 'Laravel']
     },
     {
       emoji: '📊',
       title: 'Omnichannel Marketing Dashboard',
       desc: 'Integrated omnichannel marketing strategies within Kiriminaja dashboard, optimizing cross-platform marketing efforts and improving engagement metrics.',
-      tags: ['Vue.js', 'Laravel', 'MySQL', 'Xendit Payment Gateway']
+      tags: ['Vue.js', 'Laravel', 'MySQL', 'Payment Gateway (Xendit)']
     },
     {
       emoji: '📝',
